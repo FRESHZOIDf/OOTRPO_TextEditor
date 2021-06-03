@@ -1,0 +1,8 @@
+C:\Users\moiov\source\repos\WindowsFormsApp1\Kursach.BL\bin\Debug\netstandard2.0\Kursach.BL.deps.json
+C:\Users\moiov\source\repos\WindowsFormsApp1\Kursach.BL\bin\Debug\netstandard2.0\Kursach.BL.dll
+C:\Users\moiov\source\repos\WindowsFormsApp1\Kursach.BL\bin\Debug\netstandard2.0\Kursach.BL.pdb
+C:\Users\moiov\source\repos\WindowsFormsApp1\Kursach.BL\obj\Debug\netstandard2.0\Kursach.BL.csprojAssemblyReference.cache
+C:\Users\moiov\source\repos\WindowsFormsApp1\Kursach.BL\obj\Debug\netstandard2.0\Kursach.BL.AssemblyInfoInputs.cache
+C:\Users\moiov\source\repos\WindowsFormsApp1\Kursach.BL\obj\Debug\netstandard2.0\Kursach.BL.AssemblyInfo.cs
+C:\Users\moiov\source\repos\WindowsFormsApp1\Kursach.BL\obj\Debug\netstandard2.0\Kursach.BL.dll
+C:\Users\moiov\source\repos\WindowsFormsApp1\Kursach.BL\obj\Debug\netstandard2.0\Kursach.BL.pdb
